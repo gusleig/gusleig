@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="gus_github (1).png" >
+</p>
+
 # Gustavo Leig
 ## Data engineer profile
 
